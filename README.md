@@ -70,7 +70,7 @@ lst.Add(pickednumber);
  ```csharp
 if (pickednumber == specialnumber)
   ```
-## Resetting the List
+## 🔄 Resetting the List
 - Clears the list after generating 7 numbers and resets the loop index for the next line.
  ```csharp
   if (i == 6)
