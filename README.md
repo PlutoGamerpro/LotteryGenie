@@ -1,6 +1,6 @@
 # 🎉 LotteryGenie 🎉
 
-Welcome to **LotteryGenie**, a fun and simple lottery system that randomly selects numbers for you! 🌟 This project generates random lottery numbers and highlights special numbers in a vibrant way.
+🎟️✨ Welcome to **LotteryGenie**, a fun and simple lottery system that randomly selects numbers for you! 🌟 This project generates random lottery numbers and highlights special numbers in a vibrant way.🏆
 
 ---
 
